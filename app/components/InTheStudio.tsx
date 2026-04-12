@@ -159,7 +159,7 @@ export default function InTheStudio() {
           Här kommer flera verk till liv, sakta men säkert.
         </p>
         <Link
-          href="/Gallery"
+          href="/gallery"
           className="text-[11px] uppercase tracking-[0.18em] text-[#c8a96e] border-b border-[#c8a96e] pb-px hover:opacity-70 transition whitespace-nowrap"
         >
           Se färdiga verk →

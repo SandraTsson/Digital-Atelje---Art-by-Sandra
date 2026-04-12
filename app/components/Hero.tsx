@@ -44,7 +44,7 @@ export default function Hero() {
         </motion.p>
 
         <motion.div variants={item}>
-          <Link href="/Gallery">
+          <Link href="/gallery">
             <button className="inline-block bg-white text-black px-8 py-4 text-sm uppercase tracking-widest hover:bg-[#EEEBDD] rounded-full transition">
               Se tillgängliga verk
             </button>

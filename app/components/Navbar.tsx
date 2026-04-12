@@ -20,7 +20,7 @@ export default function Navbar() {
     { name: "Hem", href: "/" },
     { name: "Om Konstnären", href: "/#about" },
     { name: "Kontakt", href: "/#contact" },
-    { name: "Galleri", href: "/Gallery" },
+    { name: "Galleri", href: "/gallery" },
   ];
 
   return (

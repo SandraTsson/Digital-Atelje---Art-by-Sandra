@@ -45,7 +45,7 @@ export default function InstagramEmbed({ permalink }: InstagramSectionProps) {
               Besök Instagram
             </Link>
             <Link
-              href="/Gallery"
+              href="/gallery"
               className="text-sm underline underline-offset-4 hover:opacity-70 transition"
             >
               Se senaste verk

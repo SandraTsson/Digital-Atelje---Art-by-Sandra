@@ -29,7 +29,7 @@ export default function Footer() {
           </h3>
           <ul className="space-y-2 text-sm">
   {[
-    { name: "Galleri", href: "/Gallery" },
+    { name: "Galleri", href: "/gallery" },
     { name: "Om", href: "/#about" },
     { name: "Kontakt", href: "/#contact" },
   ].map((item) => (
