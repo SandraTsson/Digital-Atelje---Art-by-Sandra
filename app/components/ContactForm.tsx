@@ -35,7 +35,7 @@ export default function ContactForm() {
         <span className="font-serif text-2xl text-[#b8a898] italic block mb-3">✦</span>
 
         <div className="inline-flex items-center justify-center gap-2 mb-4">
-          <h2 className="font-serif text-3xl sm:text-5xl md:text-6xl font-light leading-tight">
+          <h2 className="font-serif text-3xl sm:text-5xl md:text-6xl text-[#38291b] font-light leading-tight">
             Låt oss <em>höras</em>
           </h2>
           <PiPaintBrush className="text-[#8a7a6a]" size={28} />

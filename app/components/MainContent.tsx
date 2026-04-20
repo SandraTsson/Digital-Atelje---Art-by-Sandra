@@ -79,7 +79,7 @@ export default function MainContent() {
               Digital Ateljé
             </p>
 
-            <h2 className="text-3xl md:text-5xl font-serif text-gray-900 leading-tight">
+            <h2 className="text-3xl md:text-5xl font-serif text-[#1f160f] leading-tight">
               Art by Sandra
             </h2>
 

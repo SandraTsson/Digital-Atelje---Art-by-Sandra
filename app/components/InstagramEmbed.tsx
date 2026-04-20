@@ -24,7 +24,7 @@ export default function InstagramEmbed({ permalink }: InstagramSectionProps) {
             Instagram
           </span>
 
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif mt-4 md:mt-6 leading-tight">
+          <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif text-[#38291b] mt-4 md:mt-6 leading-tight">
             Följ processen
             <br />
             bakom verken

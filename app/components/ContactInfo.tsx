@@ -13,9 +13,9 @@ export default function ContactInfo() {
       className="hidden md:flex relative w-[100%] bg-[#f5f1ea] rounded-2xl shadow-xl px-8 py-12 flex-col">
 
 
-      <p className="text-xs uppercase tracking-[0.22em] text-[#b8a898] mb-8">Hitta mig</p>
+      <p className="text-xs uppercase tracking-[0.22em] text-[#38291b] mb-8">Hitta mig</p>
 
-      <h2 className="font-serif text-3xl font-light text-[#2a2420] leading-tight mb-2">
+      <h2 className="font-serif text-3xl font-light text-[#38291b] leading-tight mb-2">
         Sandra <em>Turesson</em>
       </h2>
       <p className="text-sm text-[#8a7a6a] font-light leading-relaxed mb-8 max-w-xs">

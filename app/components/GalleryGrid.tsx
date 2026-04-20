@@ -110,11 +110,12 @@ export default function GalleryGrid() {
 
   return (
     <>
+    <div className="bg-[##f7f6f0] min-h-screen">
       <motion.section
   initial={{ opacity: 0, y: 30 }}
   animate={{ opacity: 1, y: 0 }}
   transition={{ duration: 0.9, ease: "easeOut" }}
-  className="w-[90%] mx-auto mt-35 my-16"
+  className="w-[90%] mx-auto py-16 pt-35 bg-[##f7f6f0]"
 >
 
   <div className="flex flex-col md:flex-row md:items-end md:justify-between mb-8 pb-6 border-b border-[#e0d8ce] gap-6">
@@ -190,6 +191,7 @@ export default function GalleryGrid() {
       {selected && (
         <Modal work={selected} onClose={() => setSelected(null)} />
       )}
+      </div>
     </>
   );
 }

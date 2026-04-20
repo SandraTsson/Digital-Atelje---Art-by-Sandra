@@ -73,17 +73,17 @@ export default function AboutBio() {
             transition={{ duration: 0.8, delay: 0.2 }}
             viewport={{ once: true }}
           >
-            <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-serif text-gray-900 mb-3 sm:mb-4">
+            <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-serif text-[#38291b] mb-3 sm:mb-4">
               Vem är konstnären?
             </h2>
 
             <div className="w-16 sm:w-20 h-px bg-gray-400 mb-4 sm:mb-6" />
 
-            <p className="italic text-gray-600 mb-6 sm:mb-8 text-base sm:text-lg">
+            <p className="italic text-[#38291b] mb-6 sm:mb-8 text-base sm:text-lg">
               “Jag målar det som inte kan sägas – men kan kännas.”
             </p>
 
-            <div className="space-y-4 sm:space-y-6 text-gray-700 leading-relaxed text-sm sm:text-base">
+            <div className="space-y-4 sm:space-y-6 text-[#38291b] leading-relaxed text-sm sm:text-base">
               <p>
                 Jag växte upp med en målarpensel i handen och flödande kreatitivet. Att skapa har 
                 alltid kommit naturligt för mig. Det började med avbildningar av djur, ofta hästar, men kom
